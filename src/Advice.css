@@ -1,0 +1,43 @@
+*{
+    font-family: "poppins",sans-serif;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(120deg,crimson,rgb(17, 112, 207));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    color: #fff;
+    text-align: center;
+}
+div h3{
+    font-size: 20px;
+    font-weight: 500;
+}
+div button{
+    border: none;
+    background-color: #2d0650;
+    color: #fff ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-style: italic;
+
+
+}
+
+b{
+    color: rgb(219, 28, 28);
+    background-color: yellowgreen;
+    border-radius: 50%;
+    padding: 6px;
+}
+div button:hover{
+    background-color: #fff;
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+}
