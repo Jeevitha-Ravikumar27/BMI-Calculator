@@ -1,3 +1,5 @@
 Basic React Projects:
-   1. Random Advice Generator
-   2. BMI Calculator
+    BMI Calculator
+    when entered the data of height and weight it calculates the bmi (Body Mass Index) of Human 
+    as three categories 
+    underweight ,normal and obese
